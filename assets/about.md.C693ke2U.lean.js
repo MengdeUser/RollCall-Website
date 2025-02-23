@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a2 as r}from"./chunks/framework.HaMb2pZs.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"about.md","filePath":"about.md","lastUpdated":null}'),l={name:"about.md"};function d(n,a,p,s,c,_){return o(),t("div",null,a[0]||(a[0]=[r("",7)]))}const h=e(l,[["render",d]]);export{u as __pageData,h as default};
